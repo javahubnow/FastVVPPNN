@@ -73,3 +73,17 @@ Pure没有中国区镜像，因此需要用其他可试用的梯子（用Panda�
 
 优势：180可选节点，3W个ip，不记录日志，完全保护个人隐私
 
+
+----
+
+项目原始地址：[https://github.com/fastCNVPN/FastVVPPNN](https://github.com/fastCNVPN/FastVVPPNN)
+
+参考技术博客： [1](http://bestcnvpn.com/) [2](http://topcnvpn.com/) [3](http://fastcnvpn.com/) [4](http://top1vpn.top/)
+
+----
+
+以下是免责声明：
+
+本项目分享的工具仅为正常外贸、新媒体、海外业务交流等需要，切勿用于非法用途
+
+用户请自觉遵守当地法律法规，出现一切后果本项目作者概不负责
